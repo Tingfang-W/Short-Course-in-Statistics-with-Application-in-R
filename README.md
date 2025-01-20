@@ -4,7 +4,7 @@ Welcome to the repository for the R Tutorials used in the short course, Statisti
 
 -[Install R and Rstudio](download_install_R_RStudio.pdf)
 
--[Tutorial part I](R_tutorial_part1.pdf)
+-[Tutorial part I](R-tutorial_part1.pdf)
 
 -[Tutorial part II](R_tutorial_part2.pdf)
 
